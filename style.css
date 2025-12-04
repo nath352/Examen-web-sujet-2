@@ -9,6 +9,14 @@ body {
     display:flex;
      width: 20%;
      height: 7cm;
-     
-    
  }
+
+
+
+button {
+     background-color: rgb(238, 9, 188);
+    color: rgb(0, 0, 0);
+    padding: 0.9rem 0;
+    width: 10%;
+    margin: 0.5cm;
+}
